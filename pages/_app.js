@@ -49,4 +49,4 @@ export default function _App(props) {
             <MyApp {...props} />
         </ProviderWrapper>
     )
-};
+}; 
